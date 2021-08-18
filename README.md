@@ -4,7 +4,7 @@ This application is going to be used for sending and receiving crypto and tracki
 ```
 ##  Usage 
 - MainScreen: show the main wallet screen
-![1](https://user-images.githubusercontent.com/48173745/129849995-d9d12327-99ad-4faf-bffe-b7cc27c26dd3.jpeg)
+![1](https://user-images.githubusercontent.com/48173745/129850261-9ae492cb-2fdd-412a-beb4-5d55598572ec.png)
 
 ## Authors
 
